@@ -96,5 +96,3 @@ Thank you for your support! 🙏
   Created and maintained by <b>Speefak</b>
 </p>
 
-Falls gewünscht, kann ich die README noch als moderne GitHub-Projektseite mit Badges, Shields.io-Statusanzeigen, Feature-Karten und Banner-Grafik ausbauen.
-
