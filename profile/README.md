@@ -1,5 +1,3 @@
-# ioBroker JavaScript Repository
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/iobroker-js/.github/ebe07d9654fabc5e39539824d85e31b03bb1dba1/icons/ioBroker_JS_Banner.svg" width="900">
 </p>
