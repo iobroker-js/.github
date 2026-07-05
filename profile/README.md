@@ -1,5 +1,8 @@
 # ioBroker JavaScript Repository
 
+<img src="https://raw.githubusercontent.com/speefak/ioBroker-JS/main/.github/icons/ioBroker_JS_Banner.svg" width="900">
+
+
 <p align="center">
   <img src="./icons/ioBroker_JS_Banner.svg" width="128" height="128" alt="ioBroker JavaScript">
 </p>
