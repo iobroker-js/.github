@@ -1,7 +1,7 @@
 # ioBroker JavaScript Repository
 
 <p align="center">
-  <img src="[./icons/ioBroker_JS_Banner.svg](https://raw.githubusercontent.com/iobroker-js/.github/5a911fbc73b5f8762f97096e779d55947336a2a1/icons/ioBroker_JS_Banner.svg)" width="128" height="128" alt="ioBroker JavaScript">
+  <img src="./icons/ioBroker_JS_Banner.svg" width="128" height="128" alt="ioBroker JavaScript">
 </p>
 
 <p align="center">
